@@ -4,7 +4,7 @@
   $require_login = false;
   $require_complete_account = false;
   
-  require '../muzombies.ini.php';
+  require '../knoopvszombies.ini.php';
   
   require 'module/includes.php';
   
